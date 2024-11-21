@@ -18,6 +18,7 @@ CHANNELS = 2
 RATE = 11025
 RECORD_SECONDS = 240
 
+
 AUDIO_FILE = "record2.wav"
 
 ##song image constants
